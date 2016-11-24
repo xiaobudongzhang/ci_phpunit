@@ -1,4 +1,7 @@
-#环境配置
+#放置位置  
+将tests目录放在/appliction下
+
+#如果需要浏览器测试页面元素的话环境配置
 
 1.https://www.npmjs.com/package/selenium-standalone
 
